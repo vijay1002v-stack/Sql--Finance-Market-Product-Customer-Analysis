@@ -21,7 +21,7 @@ A comprehensive SQL-based analytics project built on a retail sales database, co
 
 ## Project Overview
 
-This project implements a layered SQL analytics pipeline for a retail business (modeled on Croma India). It progressively computes:
+Developed a Finance, Customer, Product, and Market Analytics project by building P&L-style reports. It progressively computes:
 
 - **Gross Sales** → Pre-Invoice Deductions → Net Invoice Sales → Post-Invoice Deductions → **Net Sales**
 
